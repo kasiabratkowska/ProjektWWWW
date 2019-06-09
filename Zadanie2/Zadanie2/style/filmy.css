@@ -1,0 +1,39 @@
+﻿:root {
+    background-color: silver;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: maroon;
+    color: #ffffff;
+    width: 85%;
+    margin: auto;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    border-radius: 10px;
+    padding: 50px;
+}
+header {
+    padding: 10px;
+    border-bottom: 2px solid #e5e5e5;
+    margin: 0;
+}
+    header h1 {
+        font-size: xx-large;
+        font-weight: normal;
+        padding: 20px;
+        margin: 0;
+        color: #FF9900;
+    }
+    #listafilmow {
+    margin: 20px 0;
+    }
+    #listafilmow ul{
+        list-style: none;
+    }
+    #listafilmow li a:hover {
+       border-left: 10px solid #94c9d4;
+       padding-left: 10px;
+       background-color: #e7f5f8;
+       text-decoration: none;
+       color: #0000FF;
+    }
