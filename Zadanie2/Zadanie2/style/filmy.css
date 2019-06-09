@@ -37,3 +37,10 @@ header {
        text-decoration: none;
        color: #0000FF;
     }
+footer {
+    font-size: small;
+    color: #cccccc;
+    text-align: center;
+    padding: 10px 5px 5px 5px;
+    border-top:2px solid #e5e5e5;
+}
